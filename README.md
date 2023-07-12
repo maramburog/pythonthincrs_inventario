@@ -1,0 +1,1 @@
+# pythonthincrs_inventario
